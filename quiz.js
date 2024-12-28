@@ -189,7 +189,7 @@ class Quiz {
 
         // Hitung skor  
         const scorePercentage = ((correctAnswers / this.questions.length) * 100).toFixed(2);  
-        const isPassed = scorePercentage >= 70;  
+        const isPassed = scorePercentage >= 40;  
 
         // Tampilkan ringkasan skor  
         this.scoreSummary.innerHTML = `  
