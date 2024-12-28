@@ -1,0 +1,927 @@
+{    "questions": [ 
+    {
+      "id": 1,
+      "question": "Alasan bahasa Melayu menjadi dasar lahirnya bahasa Indonesia adalah ... .",
+      "options": [
+        "merupakan bahasa para raja",
+        "sudah dikenal di banyak wilayah Nusantara",
+        "memiliki fonem lebih banyak dibandingkan dengan bahasa lain",
+        "memiliki sifat bersahaja"
+      ],
+      "correct": "sudah dikenal di banyak wilayah Nusantara"
+    },
+    {
+      "id": 2,
+      "question": "Butir pertama sumpah pemuda berbunyi “Kami putra dan putri Indonesia mengaku bertumpah darah yang satu, tanah Indonesia.” Butir ketiga berbunyi ... .",
+      "options": [
+        "Kami putra dan putri Indonesia mengaku berbangsa yang satu, bangsa Indonesia.",
+        "Kami putra dan putri Indonesia mengaku bernegara yang satu, negara Indonesia.",
+        "Kami putra dan putri Indonesia mengaku berbahasa yang satu, bahasa Indonesia.",
+        "Kami putra dan putri Indonesia menjunjung bahasa persatuan, bahasa Indonesia."
+      ],
+      "correct": "Kami putra dan putri Indonesia menjunjung bahasa persatuan, bahasa Indonesia."
+    },
+    {
+      "id": 3,
+      "question": "Bangsa Indonesia seharusnya memiliki kebanggaan dalam menggunakan bahasa Indonesia. Dalam hal ini bahasa Indonesia berkedudukan sebagai bahasa nasional dengan fungsi sebagai ... .",
+      "options": [
+        "lambang kebanggaan nasional",
+        "lambang identitas nasional",
+        "alat pemersatu berbagai suku bangsa",
+        "alat perhubungan antardaerah dan antarbudaya"
+      ],
+      "correct": "lambang kebanggaan nasional"
+    },
+    {
+      "id": 4,
+      "question": "Contoh penggunaan kata yang benar dan berkaitan dengan pengetahuan agama adalah ... .",
+      "options": [
+        "Ka’bah adalah bangunan berbentuk kubus yang berada di Masjidilharam di Mekah.",
+        "Kaabah adalah bangunan suci yang terletak di dalam Masjidilharam di Mekah.",
+        "Kabah adalah bangunan yang dikelilingi umat Islam ketika melakukan tawaf.",
+        "Kakbah adalah kiblat umat Islam ketika melakukan salat, bukan bangunan yang disembah."
+      ],
+      "correct": "Kakbah adalah kiblat umat Islam ketika melakukan salat, bukan bangunan yang disembah."
+    },
+    {
+      "id": 5,
+      "question": "Pernyataan yang menyatakan bahwa pada hakikatnya bahasa adalah ujar atau lisan adalah ... .",
+      "options": [
+        "ragam bahasa terdiri atas ragam lisan dan ragam tulis",
+        "komunikasi sudah terjadi sejak manusia pertama ada ketika itu belum ada bahasa tulis",
+        "orang lebih banyak menggunakan bahasa lisan ketika berkomunikasi dibandingkan dengan bahasa tulis",
+        "bahasa tulis hanya dapat digunakan oleh orang-orang terpelajar"
+      ],
+      "correct": "komunikasi sudah terjadi sejak manusia pertama ada ketika itu belum ada bahasa tulis"
+    },
+    {
+      "id": 6,
+      "question": "Sebagai alat komunikasi, bahasa baru dikatakan efektif jika dipahami oleh pelaku komunikasi. Hal ini berarti bahwa bahasa adalah ... .",
+      "options": [
+        "ujaran",
+        "tulisan",
+        "memiliki makna",
+        "memiliki fungsi"
+      ],
+      "correct": "memiliki makna"
+    },
+    {
+      "id": 7,
+      "question": "Sondang yang berasal dari Batak belum dapat melafalkan fonem /e/ menjadi /?/, kata apel selalu dilafalkan [apel). Hal ini menunjukkan bahwa bahasa memiliki sifat ... .",
+      "options": [
+        "dinamis",
+        "variatif",
+        "konvensional",
+        "arbitrer"
+      ],
+      "correct": "variatif"
+    },
+    {
+      "id": 8,
+      "question": "Mengapa hewan kecil yang hidup bergerombol di lubang disebut semut bukan nyamuk atau gajah? Hal ini menunjukkan bahwa bahasa memiliki sifat ... .",
+      "options": [
+        "variatif",
+        "dinamis",
+        "manusiawi",
+        "dinamis"
+      ],
+      "correct": "manusiawi"
+    },
+    {
+      "id": 9,
+      "question": "Menyimak dan membaca merupakan keterampilan berbahasa yang bersifat reseptif. Arti reseptif di sini adalah keterampilan yang berupa kegiatan ... .",
+      "options": [
+        "menerapkan sebuah pengetahuan",
+        "memahami pesan atau gagasan",
+        "menyampaikan pesan atau gagasan",
+        "mengolah pengetahuan dengan teknik tertentu"
+      ],
+      "correct": "memahami pesan atau gagasan"
+    },
+    {
+      "id": 10,
+      "question": "Menyimak yang dalam kurikulum mata pelajaran bahasa Indonesia sering disebut mendengarkan adalah kegiatan ... .",
+      "options": [
+        "memahami pesan atau gagasan yang disampaikan secara lisan",
+        "memahami pesan atau gagasan yang disampaikan secara tertulis",
+        "menyampaikan pesan atau gagasan yang disampaikan secara lisan",
+        "menyampaikan pesan atau gagasan yang disampaikan secara tertulis"
+      ],
+      "correct": "memahami pesan atau gagasan yang disampaikan secara lisan"
+    },
+    {
+      "id": 11,
+      "question": "Ilustrasi ini menunjukkan adanya hubungan antara keterampilan menulis dengan membaca.",
+      "options": [
+        "Amin sedang menulis garis-garis besar pembicaraan yang akan disampaikan pada acara pembukaan yayasan TPA As-Salam.",
+        "Rakhmat sedang membaca buku yang berisi tentang falsafah hidup yang akan disampaikan dalam ceramahnya besok pagi.",
+        "Ridwan sedang menyelesaikan artikelnya, sesekali ia berhenti menulis untuk membaca buku-buku yang berserakan di meja kerjanya.",
+        "Erni mendengarkan ceramah agama sambil mencatat hal-hal yang dianggapnya penting."
+      ],
+      "correct": "Ridwan sedang menyelesaikan artikelnya, sesekali ia berhenti menulis untuk membaca buku-buku yang berserakan di meja kerjanya."
+    },
+    {
+      "id": 12,
+      "question": "Faktor intelegensi sangat berpengaruh terhadap daya simak kemampuan menyimak seseorang. Hal ini disebabkan oleh ... .",
+      "options": [
+        "menyimak sebagai suatu keterampilan",
+        "menyimak merupakan suatu kegiatan yang sulit",
+        "banyaknya unsur bahasa yang harus dipahami oleh seorang penyimak",
+        "menyimak adalah kegiatan yang dilakukan oleh para pelajar"
+      ],
+      "correct": "banyaknya unsur bahasa yang harus dipahami oleh seorang penyimak"
+    },
+    {
+      "id": 13,
+      "question": "Faktor kemampuan menarik kesimpulan sangat berpengaruh terhadap daya simak seseorang. Artinya orang yang memiliki kemampuan menyimak yang baik akan ... .",
+      "options": [
+        "memberikan kesimpulan yang salah pada akhir kegiatan menyimak",
+        "menjelaskan isi simakan yang berbeda dengan bahan simakan",
+        "memberikan kesimpulan sesuai dengan bahan yang disimaknya",
+        "menulis rangkuman yang tidak sesuai dengan bahan simakan"
+      ],
+      "correct": "memberikan kesimpulan sesuai dengan bahan yang disimaknya"
+    },
+    {
+      "id": 14,
+      "question": "Kakak teman Pak Gatot dari Jember/ baru datang/ tadi pagi. Kalimat tersebut diucapkan oleh seorang adik kepada kakaknya dengan intonasi yang salah. Intonasi yang tepat adalah ... .",
+      "options": [
+        "Kakak/ teman Pak Gatot dari Jember baru/ datang tadi pagi.",
+        "Kakak teman Pak Gatot/ dari Jember baru datang/ tadi pagi.",
+         "Kakak teman Pak Gatot/ dari Jember/ baru datang tadi pagi.",
+        "alat pemersatu berbagai suku bangsa"
+      ],
+      "correct": "Kakak teman Pak Gatot/ dari Jember/ baru datang tadi pagi."
+    },
+    {
+      "id": 15,
+      "question": "Bonar sedang mencuci motor, ketika sebuah stasiun radio memperdengarkan lagu ‘Arti Sahabat’ yang dinyanyikan oleh kelompok Nidji, Bonar makin semangat mencuci motor sambil menyanyi. Jenis menyimak yang dilakukan Bonar adalah menyimak ... .",
+      "options": [
+        "estetis",
+        "kritis",
+        "kreatif",
+        "sekunder"
+      ],
+      "correct": "sekunder"
+    },
+    {
+      "id": 16,
+      "question": "Para siswa dengan penuh perhatian mendengarkan pembacaan petunjuk yang dibacakan guru. Jenis kegiatan menyimak yang dilakukan para siswa adalah menyimak ... .",
+      "options": [
+        "interaktif",
+        "pasif",
+        "estetis",
+        "konsentratif"
+      ],
+      "correct": "konsentratif"
+    },
+    {
+      "id": 17,
+      "question": "Membaca merupakan suatu proses merekonstruksi makna. Artinya membaca adalah kegiatan ... .",
+      "options": [
+        "mengubah lambang visual (katon) menjadi lambang bunyi",
+        "mengubah kode-kode atau lambang-lambang verbal menjadi bunyi-bunyi bahasa yang dapat dipahami",
+        "menangkap informasi atau makna sesuai dengan informasi yang disampaikan penulis",
+        "menjelaskan informasi sesuai dengan informasi yang disampaikan penulis"
+      ],
+      "correct": "menangkap informasi atau makna sesuai dengan informasi yang disampaikan penulis"
+    },
+    {
+      "id": 18,
+      "question": "Beberapa kemampuan mikro yang harus dimiliki seorang pembaca intensif adalah sebagai berikut, kecuali... .",
+      "options": [
+        "mengenali lambang-lambang tulis",
+        "memahami makna tersirat",
+        "memahami kata-kata sulit",
+        "memahami informasi tersurat"
+      ],
+      "correct": "memahami makna tersirat"
+    },
+    {
+      "id": 19,
+      "question": "Pengertian pemahaman literal dalam kegiatan membaca adalah kemampuan pembaca dalam memahami ... .",
+      "options": [
+        "makna kata yang digunakan penulis",
+        "makna kata-kata sulit yang terdapat dalam bacaan",
+        "makna atau pesan secara tersurat",
+        "makna di balik pesan yang terdapat di dalam bacaan"
+      ],
+      "correct": "makna atau pesan secara tersurat"
+    },
+    {
+      "id": 20,
+      "question": "Untuk memperoleh informasi dari karya-karya ilmiah pendek teknik CATU tepat untuk digunakan, yaitu dengan cara ... .",
+      "options": [
+        "catat dan tulis kembali",
+        "catat, tulis-kembali, dan uji",
+        "catat, tanya, dan ulang",
+        "catat atau tuliskan"
+      ],
+      "correct": "catat, tulis-kembali, dan uji"
+    },
+    {
+      "id": 21,
+      "question": "Salah satu karakteristik membaca ekstensif berkaitan dengan pembaca, adalah ... .",
+      "options": [
+        "bahan bacaan sesuai dengan minat atau keperluan pembaca",
+        "cakupannya lebih luas, lebih banyak, dan lebih variatif",
+        "kegiatannya bersifat individual",
+        "waktu membaca tidak mengikat"
+      ],
+      "correct": "bahan bacaan sesuai dengan minat atau keperluan pembaca"
+    },
+    {
+      "id": 22,
+      "question": "Tujuan membaca cepat dengan teknik skimming adalah ... .",
+      "options": [
+        "mengisi waktu luang",
+        "memahami isi bacaan secara mendalam",
+        "mencari informasi tertentu dari sebuah bacaan",
+        "menghayati isi bacaan agar dapat menceritakan isinya dengan baik"
+      ],
+      "correct": "mencari informasi tertentu dari sebuah bacaan"
+    },
+    {
+      "id": 23,
+      "question": "Karakteristik karya ilmiah populer adalah ... .",
+      "options": [
+        "bentuknya lebih kecil dari karya ilmiah murni",
+        "isinya lebih sederhana dibandingkan karya ilmiah murni",
+        "bahasanya lebih ringan, mudah dimengerti, dan enak dibaca",
+        "ilustrasinya lebih banyak sehingga maksudnya menjadi lebih jelas"
+      ],
+      "correct": "bahasanya lebih ringan, mudah dimengerti, dan enak dibaca"
+    },
+    {
+      "id": 24,
+      "question": "Tesis adalah sebuah karya ilmiah yang disusun oleh seorang ... .",
+      "options": [
+        "calon mahasiswa",
+        "mahasiswa program S1",
+        "mahasiswa program S2",
+        "mahasiswa program S3"
+      ],
+      "correct": "mahasiswa program S2"
+    },
+    {
+      "id": 25,
+      "question": "Contoh karya ilmiah populer berbentuk deskriptif- ekspositoris adalah ... .",
+      "options": [
+        "sejarah berdirinya Candi Borobudur",
+        "hasil penelitian tentang ragam bahasa Betawi",
+        "jenis-jenis ikan hias lokal",
+        "kisah 26 Desember 2004"
+      ],
+      "correct": "sejarah berdirinya Candi Borobudur"
+    },
+    {
+      "id": 26,
+      "question": "Kemampuan tertinggi yang dimiliki pembaca dengan pemahaman literal adalah ... .",
+      "options": [
+        "menghubungkan simbol-simbol bahasa menjadi kata yang bermakna",
+        "merekonstruksi makna-makna menjadi suatu informasi yang utuh",
+        "menangkap pesan atau informasi yang terdapat dalam bacaan",
+        "menangkap makna di balik informasi yang dituangkan dalam bacaan"
+      ],
+      "correct": "menangkap pesan atau informasi yang terdapat dalam bacaan"
+    },
+    {
+      "id": 27,
+      "question": "Seorang pembaca yang memiliki tingkat pemahaman interpretatif mampu ... .",
+      "options": [
+        "menangkap makna kata-kata",
+        "menangkap makna tersurat",
+        "menangkap makna tersirat",
+        "menilai isi bacaan"
+      ],
+      "correct": "menangkap makna tersirat"
+    },
+    {
+      "id": 28,
+      "question": "”Tsunami yang menimpa Aceh terjadi pada tanggal 25 Desember 2004.” Seorang pembaca kritis yang membaca wacana tersebut akan ... .",
+      "options": [
+        "menangkap informasi tersebut apa adanya",
+        "menangkap makna di balik kejadian yang terdapat dalam bacaan tersebut",
+        "membuat cerita atau puisi berdasarkan bacaan tersebut",
+        "memperbaiki kesalahan yang terdapat dalam wacana itu"
+      ],
+      "correct": "memperbaiki kesalahan yang terdapat dalam wacana itu"
+    },
+    {
+      "id": 29,
+      "question": "Setelah membaca bacaan yang berisi tingkah laku seekor hewan yang lucu, Anggi membuat sebuah puisi tentang kebesaran Allah. Dalam hal ini Anggi tergolong pembaca dengan tingkat pemahaman ... .",
+      "options": [
+        "literal",
+        "interpretatif",
+        "kritis",
+        "kreatif"
+      ],
+      "correct": "kreatif"
+    },
+    {
+      "id": 30,
+      "question": "Peletak dasar utama teknologi pertelevisian adalah Paul Nipkow dari Jerman. Pada tahun 1884 ia menemukan sebuah alat, kemudian disebut sebagai Jantra Nipkow. Penemuan tersebut telah melahirkan electrische teleskop atau televisi elektris. Isi paragraf di atas adalah ... .",
+      "options": [
+        "kehidupan Paul Nipkow",
+        "penemu televisi elektris",
+        "stasiun televisi di Jerman",
+        "teknologi pertelevisian"
+      ],
+      "correct": "penemu televisi elektris"
+    },
+    {
+      "id": 31,
+      "question": "Rina membaca sebuah wacana yang terdiri atas 1200 kata dalam waktu 3 menit. Ia mejawab dengan benar 7 dari 10 pertanyaan bacaan yang diajukan. Dengan demikian, dikatakan Sella memiliki kemampuan efektif membaca (KEM) yaitu ... .",
+      "options": [
+        "240 KPM",
+        "260 KPM",
+        "280 KPM",
+        "300 KPM"
+      ],
+      "correct": "280 KPM"
+    },
+    {
+      "id": 32,
+      "question": "Salah satu cara untuk mengetahui baik buruknya sebuah tulisan adalah menilai organisasi tulisan yaitu ... .",
+      "options": [
+        "pendahuluan, isi, dan penutup",
+        "pilihan kata, penyusunan kalimat, dan penyusunan paragraf",
+        "daftar isi, kata pengantar, dan isi",
+        "daftar isi, isi, dan daftar pustaka"
+      ],
+      "correct": "pendahuluan, isi, dan penutup"
+    },
+    {
+      "id": 33,
+      "question": "Dengan berbicara seseorang dapat menyatakan perasaan dan pikirannya. Pernyataan ini menjelaskan bahwa berbicara merupakan kegiatan ... .",
+      "options": [
+        "yang dilakukan secara secara lisan",
+        "mengekspresikan diri",
+        "yang bersifat produktif",
+        "berbahasa yang unik"
+      ],
+      "correct": "mengekspresikan diri"
+    },
+    {
+      "id": 34,
+      "question": "Salah satu contoh konteks fisik yang berpengaruh terhadap kegiatan berbicara nonformal adalah ... .",
+      "options": [
+        "peserta komunikasi",
+        "emosi para pelaku komunikasi",
+        "karakteristik budaya",
+        "malam hari"
+      ],
+      "correct": "peserta komunikasi"
+    },
+    {
+      "id": 35,
+      "question": "Para pahlawan nasional yang ... di medan perang tergolong orang-orang yang mati syahid. Kata yang tepat untuk mengisi bagian yang kosong pada kalimat tersebut adalah ... .",
+      "options": [
+        "gugur",
+        "meninggal",
+        "wafat",
+        "mati"
+      ],
+      "correct": "gugur"
+    },
+    {
+      "id": 36,
+      "question": "Pandangan mata sebagai faktor nonkebahasaan sangat penting dalam kegiatan berbicara formal, karena ... .",
+      "options": [
+        "dapat membantu pendengar dalam memahami apa yang dibicarakan",
+        "menumbuhkan hubungan psikologis antara pembicara dengan pendengar",
+        "dapat mengundang perhatian pendengar sehingga menjadi lebih fokus",
+        "akan membangun penampilan dan percaya diri pembicara"
+      ],
+      "correct": "menumbuhkan hubungan psikologis antara pembicara dengan pendengar"
+    },
+    {
+      "id": 37,
+      "question": "Hal yang pertama dan sangat penting, harus dilakukan seorang pembicara adalah ... .",
+      "options": [
+        "membuat persiapan",
+        "mencari referensi",
+        "berlatih",
+        "membuat simpulan"
+      ],
+      "correct": "membuat persiapan"
+    },
+    {
+      "id": 38,
+      "question": "Isi bagian pembuka sebuah tulisan yang baik adalah ... .",
+      "options": [
+        "pengantar menuju inti persoalan yang hendak disajikannya pada bagian isi",
+        "pengalaman hidup si penulis",
+        "paparan pokok-pokok inti tulisan",
+        "simpulan, keinginan-keinginan, atau harapan-harapan yang ingin dicapai"
+      ],
+      "correct": "pengantar menuju inti persoalan yang hendak disajikannya pada bagian isi"
+    },
+    {
+      "id": 39,
+      "question": "Satu dari beberapa syarat kalimat efektif adalah memiliki bentuk yang sejajar, contohnya adalah ... .",
+      "options": [
+        "Dia belajar dengan sungguh-sungguh agar memperoleh nilai yang baik.",
+        "Dia sangat tidak suka dengan orang yang membuang sampah tidak pada tempatnya.",
+        "Dia yang mencari uang, membeli bahan makanan, memasak, dan menyajikan makanan tersebut untuk keluarganya.",
+        "Dia orang yang tidak pernah mengeluh, apapun masalah yang menimpanya dihadapinya dengan sabar."
+      ],
+      "correct": "Dia yang mencari uang, membeli bahan makanan, memasak, dan menyajikan makanan tersebut untuk keluarganya."
+    },
+    {
+      "id": 40,
+      "question": "Sebuah tulisan dikatakan baik jika kalimat-kalimatnya disusun secara efektif. Kalimat yang tidak efektif akan membuat pembaca menjadi bingung dan dapat menimbulkan salah penafsiran, seperti contoh berikut ini “Gempa bumi di Tasikmalaya banyak memakan korban, 60 orang meninggal, tetapi tidak ada yang melapor.” Jenis paragraf di atas adalah ... .",
+      "options": [
+        "narasi",
+        "argumentasi",
+        "deskripsi",
+        "persuasi"
+      ],
+      "correct": "argumentasi"
+    },
+    {
+      "id": 41,
+      "question": "Unsur-unsur bahasa berikut ini terdapat dalam sebuah paragraf yang memenuhi syarat kepaduan, kecuali ... .",
+      "options": [
+          "repetisi atau pengulangan kata kunci",
+          "kata ganti (orang, tunjuk)",
+          "semua kalimat saling berkaitan satu dengan lainnya",
+          "kata transisi dan paralelisme"
+      ],
+      "correct": "semua kalimat saling berkaitan satu dengan lainnya"
+  },
+  {
+      "id": 42,
+      "question": "Predikat adalah bagian kalimat yang memberitahukan hal-hal yang berkenaan dengan subjek. Subjek adalah bagian kalimat yang bertindak sebagai pelaku. Predikat dapat berupa kata atau frasa, sebagian besar berkelas verba atau adjektiva. Letak predikat tidak pernah berjauhan dengan subjek. Paragraf tersebut tidak memenuhi syarat kesatuan. Hal ini disebabkan oleh adanya kalimat ... .",
+      "options": [
+          "pertama",
+          "kedua",
+          "ketiga",
+          "ketiga"
+      ],
+      "correct": "kedua"
+  },
+  {
+      "id": 43,
+      "question": "Predikat adalah bagian kalimat yang memberitahukan hal-hal yang berkenaan dengan subjek. Predikat dapat berupa kata atau frasa, sebagian besar berkelas verba atau adjektiva. Letak predikat tidak pernah berjauhan dengan subjek. Ia juga senantiasa diikuti oleh objek. Teknik yang digunakan dalam mengembangkan paragraf di atas adalah … .",
+      "options": [
+          "secara alamiah",
+          "klimaks",
+          "perbandingan",
+          "sebab akibat"
+      ],
+      "correct": "secara alamiah"
+  },
+  {
+      "id": 44,
+      "question": "Indonesia merupakan satu-satunya negara paling aneh di dunia. Orang Barat terheran-heran mendengarkan nada-nada musik tradisional Indonesia yang pentatonis itu, tidak dapat diukur oleh garpu tala. Orang-orang dari negara tetangga juga heran melihat perilaku bangsa ini yang katanya murah senyum, tetapi sering kali bersikap anarkis (tawuran, merusak, membunuh) dan kekerasan yang lain. Katanya 90% penduduknya penganut agama yang baik, tetapi senang sekali menyusahkan orang lain. Negaranya sangat kaya dengan hasil pertanian/perkebunan, barang tambang, dan hasil hutan kayu, rotan, dan tumbuhan obat-obatan, tetapi rakyatnya banyak yang kelaparan. Peringkat orang kaya meningkat, tetapi jumlah si miskinnya bertambah. Teknik pengembangan yang digunakan dalam menyusun paragraf tersebut adalah pengembangan ... .",
+      "options": [
+          "analogi",
+          "contoh-contoh",
+          "perbandingan",
+          "sebab akibat"
+      ],
+      "correct": "contoh-contoh"
+  },
+  {
+      "id": 45,
+      "question": "Bogor dikenal dengan sebutannya sebagai Kota Hujan. Bogor memang berada di ketinggian beberapa ribu kaki di atas permukaan laut. Letaknya yang tinggi ini membuat awan-awan tebal di atas kota Bogor cepat mencair menjadi hujan. Di samping itu, Bogor juga dikelilingi gunung dan perbukitan dengan hutannya yang masih rimbun. Keadaan alam inilah yang sering kali mampu menahan awan-awan tebal untuk kemudian menghasilkan curahan hujan yang cukup banyak. Teknik pengembangan yang digunakan dalam menyusun paragraf di atas adalah pengembangan ... .",
+      "options": [
+          "deduktif",
+          "induktif",
+          "klimaks",
+          "antiklimaks"
+      ],
+      "correct": "deduktif"
+  },
+  {
+      "id": 46,
+      "question": "Membaca adalah kegiatan yang pertama kali harus dilakukan oleh seorang penulis ringkasan. Kegiatan ini dilakukan untuk ... .",
+      "options": [
+          "mengenali pengarang secara lebih dalam",
+          "memilah-milah bagian inti dan bukan inti",
+          "mengetahui tujuan penulis, pokok masalah atau tema tulisan",
+          "gaya yang digunakan penulis dalam tulisannya"
+      ],
+      "correct": "mengetahui tujuan penulis, pokok masalah atau tema tulisan"
+  },
+  {
+      "id": 47,
+      "question": "Abstrak adalah ringkasan sebuah karya ilmiah yang disusun dengan memenuhi kriteria sebagai berikut, kecuali ... .",
+      "options": [
+          "disajikan dalam bentuk paparan informatif",
+          "bahasa yang digunakan lugas, singkat, padat, dan jelas",
+          "sekurang-kurangnya berisi masalah, tujuan, kesimpulan dan saran",
+          "riwayat hidup penulis"
+      ],
+      "correct": "riwayat hidup penulis"
+  },
+  {
+      "id": 48,
+      "question": "Resensi dapat diartikan sebagai ... .",
+      "options": [
+          "tulisan dalam bentuk buku",
+          "tulisan yang berisi ulasan mengenai nilai sebuah buku",
+          "lukisan/gambar yang digunakan sebagai ilustrasi sebuah buku",
+          "lukisan/gambar yang digunakan sebagai sampul depan sebuah buku"
+      ],
+      "correct": "tulisan yang berisi ulasan mengenai nilai sebuah buku"
+  },
+  {
+      "id": 49,
+      "question": "Resensi biasanya disusun dengan menggunakan pola sebagai berikut ... .",
+      "options": [
+          "judul, perwajahan, pembukaan, pembahasan, penutup, identitas peresensi",
+          "perwajahan, judul, pembukaan, pembahasan, penutup, identitas peresensi",
+          "pembukaan, judul, perwajahan, pembahasan, penutup, identitas peresensi",
+          "identitas peresensi, judul, perwajahan, pembukaan, pembahasan, penutup"
+      ],
+      "correct": "judul, perwajahan, pembukaan, pembahasan, penutup, identitas peresensi"
+  },
+  {
+      "id": 50,
+      "question": "Teknik cutting and glueing dalam pembuatan resensi adalah … .",
+      "options": [
+          "memotong-motong bagian-bagian buku yang sedang diresensi",
+          "memotong bagian-bagian penting dan menarik dari isi buku dan merekatkan satu dengan yang lainnya",
+          "mengambil bagian penting isi buku dan memadukannya dengan isi buku lain yang bertema sama",
+          "mengambil bagian yang sangat penting dalam buku yang sedang diresensi"
+      ],
+      "correct": "memotong bagian-bagian penting dan menarik dari isi buku dan merekatkan satu dengan yang lainnya"
+  },
+  {
+    "id": 51,
+    "question": "Penulisan resensi yang berfokus pada bagian yang sangat penting atau sangat menarik adalah penulisan yang menggunakan teknik ... .",
+    "options": [
+        "cutting and glueing",
+        "comparing",
+        "focusing.",
+        "scanning"
+    ],
+    "correct": "focusing."
+},
+{
+    "id": 52,
+    "question": "Pengertian kerangka karangan dalam proses menulis adalah ... .",
+    "options": [
+        "bahan-bahan yang akan digunakan di dalam kegiatan menulis",
+        "alat-alat yang akan digunakan di dalam kegiatan menulis",
+        "rencana atau rancangan yang berisi topik dan subtopik yang disusun secara sistematis",
+        "ide atau gagasan yang akan dikembangkan menjadi sebuah masalah yang akan ditulis"
+    ],
+    "correct": "rencana atau rancangan yang berisi topik dan subtopik yang disusun secara sistematis"
+},
+{
+    "id": 53,
+    "question": "Akhmadi, M. 1990. Dasar-dasar Komposisi Bahasa IndonesiA. Malang: Yayasan Asih Asah Asuh. (1990). Penulisan daftar pustaka tersebut tidak tepat, yang tepat adalah … .",
+    "options": [
+        "M., Akhmadi. 1990. Dasar-dasar Komposisi Bahasa IndonesiA. Malang: Yayasan Asih Asah Asuh.",
+        "M., Akhmadi. Dasar-dasar Komposisi Bahasa IndonesiA. Malang: Yayasan Asih Asah Asuh. (1990).",
+        "Akhmadi, M. Dasar-dasar Komposisi Bahasa IndonesiA. Malang: Yayasan Asih Asah Asuh. (1990).",
+        "Akhmadi, M. 1990. Dasar-dasar Komposisi Bahasa IndonesiA. Malang: Yayasan Asih Asah Asuh."
+    ],
+    "correct": "Akhmadi, M. 1990. Dasar-dasar Komposisi Bahasa IndonesiA. Malang: Yayasan Asih Asah Asuh."
+},
+{
+    "id": 54,
+    "question": "... Retorika merupakan seni berbicara yang wajib dipelajari oleh para profesional muda”. Jika ini sebuah kutipan langsung, maka terdapat beberapa kesalahan, seharusnya adalah ... .",
+    "options": [
+        "Lis berpendapat bahwa, “Retorika merupakan seni berbicara yang wajib dipelajari oleh para profesional muda”.",
+        "Lis berpendapat (2000: 14) ; “Retorika merupakan seni berbicara yang wajib dipelajari oleh para profesional muda”.",
+        "Lis berpendapat bahwa “Retorika merupakan seni berbicara yang wajib dipelajari oleh para profesional muda”.",
+        "Lis (2000: 14) berpendapat bahwa “Retorika merupakan seni berbicara yang wajib dipelajari oleh para profesional muda”."
+    ],
+    "correct": "Lis (2000: 14) berpendapat bahwa “Retorika merupakan seni berbicara yang wajib dipelajari oleh para profesional muda”."
+},
+{
+  "id": 55,
+  "question": "Suatu masyarakat menyusun bunyi yang berasal dari fonem-fonem /a/, /t/, /o/, /s/ [a t o s]. Jika bunyi-bunyi itu disusun menjadi [t s o a], maka masyarakat tersebut tidak mengerti maknanya. Contoh tersebut menunjukkan bahwa hakikat bahasa adalah:",
+  "options": [
+      "bermakna",
+      "bunyi ujar atau lisan",
+      "memiliki fungsi",
+      "memiliki sistem"
+  ],
+  "correct": "memiliki sistem"
+},
+{
+  "id": 56,
+  "question": "“Hom pi la hom pimpah alaihum gambreng.” Bunyi-bunyi bahasa tersebut menunjukkan bahwa bahasa memiliki sifat:",
+  "options": [
+      "variatif",
+      "arbitrer",
+      "konvensional",
+      "indah"
+  ],
+  "correct": "indah"
+},
+{
+  "id": 57,
+  "question": "Bahasa digunakan untuk bergaul dengan orang lain. Fungsi bahasa ini diungkapkan oleh:",
+  "options": [
+      "Karl Bühler",
+      "Halliday",
+      "Karl Raemind Popper",
+      "Aristoteles"
+  ],
+  "correct": "Halliday"
+},
+{
+  "id": 58,
+  "question": "Keterampilan berbahasa yang keduanya bukan bersifat reseptif adalah:",
+  "options": [
+      "menyimak dan menulis",
+      "berbicara dan menulis",
+      "menyimak dan berbicara",
+      "membaca dan menulis"
+  ],
+  "correct": "berbicara dan menulis"
+},
+{
+  "id": 59,
+  "question": "Ujaran seorang anak mencerminkan pemakaian bahasa di rumah dan dalam masyarakat tempatnya hidup, misalnya ucapan, intonasi, kosa kata, penggunaan kata-kata, dan pola-pola kalimat. Pernyataan tersebut merupakan hubungan antara keterampilan:",
+  "options": [
+      "menyimak dan membaca",
+      "berbicara dan membaca",
+      "menyimak dan berbicara",
+      "ekspresi lisan dengan ekspresi tulis"
+  ],
+  "correct": "menyimak dan berbicara"
+},
+{
+  "id": 60,
+  "question": "Bahasa Melayu sudah digunakan di kawasan Asia Tenggara sejak abad ke-7. Di bawah ini yang bukan menjadi bukti pendukung pernyataan di atas adalah….",
+  "options": [
+      "Prasasti Kedukan Bukit",
+      "SK bernomor K.B. 1871 No. 104 yang dikeluarkan oleh pemerintah kolonial Belanda",
+      "Daftar kata-kata yang disusun oleh seorang Portugis bernama Pigafetta pada tahun 1522",
+      "Prasasti Telaga Batu"
+  ],
+  "correct": "Prasasti Telaga Batu"
+},
+{
+  "id": 61,
+  "question": "Kongres bahasa Indonesia yang pertama dilaksanakan pada:",
+  "options": [
+      "28 Oktober – 1 November 1954",
+      "25 – 27 Juni 1938",
+      "27—28 Oktober 1928",
+      "28 Oktober – 2 November 1978"
+  ],
+  "correct": "25 – 27 Juni 1938"
+},
+{
+  "id": 62,
+  "question": "Pemerintah perlu menerapkan Uji Kemahiran Berbahasa Indonesia (UKBI) untuk menyeleksi dan mempromosikan pegawai, baik di lingkungan pemerintah maupun swasta guna memperkuat jati diri dan kedaulatan NKRI, serta melakukan UKBI sebagai “paspor bahasa” bagi tenaga kerja asing di Indonesia. Pernyataan di atas merupakan rekomendasi pada kongres bahasa yang ke .....",
+  "options": [
+      "VI",
+      "IV",
+      "X",
+      "VIII"
+  ],
+  "correct": "X"
+},
+{
+  "id": 63,
+  "question": "Airil dari Padang kuliah ke Bandung. Ia berteman dengan Rahman dari Palu, Tarpin dari Lombok, dan Nugroho dari Solo. Mereka berteman baik dan menggunakan bahasa Indonesia dalam berkomunikasi antara satu sama lain. Dalam hal ini bahasa Indonesia berperan sebagai….",
+  "options": [
+      "alat pemersatu bangsa",
+      "lambang identitas nasional",
+      "lambang kebanggaan nasional",
+      "alat komunikasi antaretnik"
+  ],
+  "correct": "alat komunikasi antaretnik"
+},
+{
+  "id": 64,
+  "question": "Banyak buku panduan/petunjuk berbagai produk yang berasal dari luar negeri diterjemahkan ke dalam bahasa Indonesia. Hal ini berarti bahwa bahasa Indonesia berfungsi sebagai….",
+  "options": [
+      "bahasa resmi negara",
+      "pemersatu antarsuku bangsa",
+      "pengembang ilmu pengetahuan dan teknologi",
+      "pengantar dalam dunia pendidikan"
+  ],
+  "correct": "pemersatu antarsuku bangsa"
+},
+{
+  "id": 65,
+  "question": "Perbedaan membaca intensif dan ekstensif adalah sebagai berikut, kecuali ....",
+  "options": [
+      "Membaca intensif merepresentasikan isi buku sedangkan membaca ekstensif menambah wawasan.",
+      "Membaca intensif menguasai isi buku secara mendalam sedangkan membaca ekstensif membaca buku perpustakaan sebelum dipinjam.",
+      "Membaca intensif membaca untuk persiapan ujian sedangkan membaca ekstensif mencari makna kata yang belum dikuasai.",
+      "Membaca intensif membaca buku sebelum dibeli sedangkan membaca ekstensif membaca novel yang disukai."
+  ],
+  "correct": "Membaca intensif menguasai isi buku secara mendalam sedangkan membaca ekstensif membaca buku perpustakaan sebelum dipinjam."
+},
+{
+  "id": 66,
+  "question": "Strategi SQ3R dimulai dari ….",
+  "options": [
+      "survey -> question -> recite -> read -> review",
+      "survey -> question -> read -> reduce -> review",
+      "survey -> question -> read -> review -> recite",
+      "survey -> question -> read -> recite -> review"
+  ],
+  "correct": "survey -> question -> read -> recite -> review"
+},
+{
+  "id": 67,
+  "question": "Setiap kali selesai membaca suatu bab, pembaca wajib membuat ringkasan atau catatan-catatan penting mengenai apa yang baru saja dibaca. Pernyatan ini merupakan langkah ….",
+  "options": [
+      "summarize",
+      "read",
+      "survey",
+      "preview"
+  ],
+  "correct": "summarize"
+},
+{
+  "id": 68,
+  "question": "Teknik membaca dengan melompati informasi lain dan langsung menuju ke informasi yang kita inginkan disebut dengan teknik membaca ….",
+  "options": [
+      "PQ4R",
+      "Skimming",
+      "SQ3R",
+      "Scanning"
+  ],
+  "correct": "Scanning"
+},
+{
+  "id": 69,
+  "question": "Pernyatan berikut yang benar tentang membaca skimming adalah, kecuali ….",
+  "options": [
+      "Membaca untuk mencari nomor telepon, kamus, dan indeks.",
+      "Mengurangi kecepatan membaca ketika sampai pada bagian penting dalam teks dan berupaya memahaminya.",
+      "Menemukan ide pokok dan detail penting dalam teks.",
+      "Memulai kegiatan membaca dengan cara melihat baris dan kalimat dengan cepat."
+  ],
+  "correct": "Membaca untuk mencari nomor telepon, kamus, dan indeks."
+},
+{
+  "id": 70,
+  "question": "Pengertian membaca adalah kegiatan....",
+  "options": [
+      "menggabungkan ide pokok ke dalam kalimat khusus",
+      "mengolah informasi dari bacaan dengan pengetahuan yang sudah dimiliki",
+      "merumuskan teks menjadi lebih singkat dengan pengetahuan baru",
+      "menangkap makna secara umum"
+  ],
+  "correct": "mengolah informasi dari bacaan dengan pengetahuan yang sudah dimiliki"
+},
+{
+  "id": 71,
+  "question": "Siswa kelas rendah masuk ke dalam tingkat membaca....",
+  "options": [
+      "permulaan",
+      "lancar",
+      "intensif",
+      "lanjut"
+  ],
+  "correct": "permulaan"
+},
+{
+  "id": 72,
+  "question": "Mencari kata di kamus termasuk jenis membaca....",
+  "options": [
+      "scanning",
+      "skimming",
+      "kritis",
+      "efektif"
+  ],
+  "correct": "scanning"
+},
+{
+  "id": 73,
+  "question": "Ketika di toko buku, pembeli biasanya membaca judul, daftar isi, dan ringkasan buku sebelum memutuskan membeli. Kegiatan ini merupakan contoh membaca....",
+  "options": [
+      "skimming",
+      "scanning",
+      "komprehensif",
+      "kritis"
+  ],
+  "correct": "skimming"
+},
+{
+  "id": 74,
+  "question": "Salah satu tujuan membaca adalah....",
+  "options": [
+      "mencari kesalahan ketik",
+      "memperluas pergaulan",
+      "mencari fakta",
+      "meningkatkan status sosial"
+  ],
+  "correct": "mencari fakta"
+},
+{
+  "id": 75,
+  "question": "Perhatikan kalimat berikut! \"Baik mahasiswa lama atau mahasiswa baru dikenakan peraturan yang sama\". Ketidakefektivan kalimat tersebut disebabkan oleh ....",
+  "options": [
+      "tidak objektif",
+      "penggunaan kata yang berlebih",
+      "tidak berorientasi gagasan",
+      "tidak konsisten atau taat asas"
+  ],
+  "correct": "penggunaan kata yang berlebih"
+},
+{
+  "id": 76,
+  "question": "Penggunaan huruf kapital yang tepat, ditunjukkan pada jawaban….",
+  "options": [
+      "Kita harus selalu menghormati ibu dan bapak dosen.",
+      "Budi suka membeli asinan Bogor.",
+      "\"Kapan bapak berangkat?\" tanya Hasan.",
+      "Saya membaca buku dari Ave Maria ke Jalan Lain ke Roma."
+  ],
+  "correct": "Kita harus selalu menghormati ibu dan bapak dosen."
+},
+{
+  "id": 77,
+  "question": "Bagian latar belakang sebuah makalah tersusun atas ….",
+  "options": [
+      "rumusan masalah -> tujuan -> latar belakang",
+      "latar belakang -> tujuan -> rumusan masalah",
+      "latar belakang -> tujuan -> manfaat",
+      "latar belakang -> rumusan masalah -> tujuan"
+  ],
+  "correct": "latar belakang -> rumusan masalah -> tujuan"
+},
+{
+  "id": 78,
+  "question": "Perhatikan paragraf berikut! \"Mendidik anak sama seperti merawat sebuah tanaman. Dalam merawat tanaman, kita mesti merawat mereka secara telaten dan sabar, sehingga tanaman yang kita rawat bisa bertumbuh dengan semestinya. Begitu juga dengan mendidik anak. Perlu adanya ketelatenan dan kesabaran ekstra agar mereka dapat bertumbuh dengan semestinya. Oleh karena itu, kita harus mendidik anak kita dengan telaten dan sabar seperti halnya saat kita merawat tumbuhan\". Pola pengembangan paragraf di atas menggunakan teknik pengembangan….",
+  "options": [
+      "Danalogi",
+      "sebab-akibat",
+      "klasifikasi",
+      "definisi"
+  ],
+  "correct": "Danalogi"
+},
+{
+  "id": 79,
+  "question": "Teknik pengembangan isi makalah secara sebab-akibat ditunjukkan pada pilihan….",
+  "options": [
+      "Hasil panen para petani di Desa Cisandana tahun ini tidak memuaskan...",
+      "Memilih jurusan kuliah yang tepat adalah sesuatu yang gampang-gampang susah...",
+      "Banyak orang beranggapan bahwa merokok menggunakan rokok mentol jauh lebih aman daripada jenis rokok lainnya...",
+      "Menurut jenisnya, demam dibedakan menjadi demam kontinyu, demam remiten, demam intermiten, dan demam bifasiq..."
+  ],
+  "correct": "Banyak orang beranggapan bahwa merokok menggunakan rokok mentol jauh lebih aman daripada jenis rokok lainnya..."
+},
+{
+  "id": 80,
+  "question": "Perhatikan abstrak berikut! Penelitian ini bertujuan untuk mengukur tingkat pengaruh media sosial terhadap perilaku konsumtif remaja di kota besar... Bagian yang tidak ada dalam abstrak di atas adalah….",
+  "options": [
+      "Latar belakang",
+      "Hasil penelitian",
+      "Tujuan penelitian",
+      "Metode penelitian"
+  ],
+  "correct": "Latar belakang"
+},
+{
+  "id": 81,
+  "question": "Dalam karya ilmiah, bagian abstrak lazimnya ditulis dalam….",
+  "options": [
+      "Spasi ganda",
+      "spasi 1,15",
+      "spasi tunggal",
+      "Tidak tentu"
+  ],
+  "correct": "spasi tunggal"
+},
+{
+  "id": 82,
+  "question": "Bagian yang tidak harus ada dalam abstrak adalah….",
+  "options": [
+      "Tujuan penelitian",
+      "Alasan dilaksanakan penelitian",
+      "Informasi umum penelitian",
+      "Saran penelitian"
+  ],
+  "correct": "Saran penelitian"
+},
+{
+  "id": 83,
+  "question": "Unsur yang tidak perlu terdapat dalam sebuah abstrak adalah...",
+  "options": [
+      "Metodologi penelitian",
+      "Daftar pustaka lengkap",
+      "Hasil penelitian",
+      "Tujuan penelitian"
+  ],
+  "correct": "Daftar pustaka lengkap"
+},
+{
+  "id": 84,
+  "question": "Kriteria abstrak yang baik adalah….",
+  "options": [
+      "Sesuai tujuan, berdiri sendiri, menggunakan bahasa campuran",
+      "Ringkas, sesuai tujuan, bermakna ganda",
+      "Sesuai tujuan, berdiri sendiri, ambigu",
+      "Representatif, ringkas, dan jelas"
+  ],
+  "correct": "Representatif, ringkas, dan jelas"
+}
+  ]
+}
